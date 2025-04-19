@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`c79716f`](https://github.com/stdlib-js/stdlib/commit/c79716fbdd4f07fcf070e3000255717201d2b571) - **chore:** clean-up _(by Athan Reines)_
 -   [`843d1d0`](https://github.com/stdlib-js/stdlib/commit/843d1d0685fa8c550bb9c209c8bd87ca0f7ddb2c) - **feat:** add C implementation for `stats/base/dists/frechet/logpdf` [(#5249)](https://github.com/stdlib-js/stdlib/pull/5249) _(by iraandrushko, Philipp Burckhardt)_
 -   [`fa15161`](https://github.com/stdlib-js/stdlib/commit/fa15161761664bbdd2123292d3f1d7cf2d0f0a6d) - **bench:** refactor random number generation in `stats/base/dists/frechet` [(#4922)](https://github.com/stdlib-js/stdlib/pull/4922) _(by Karan Anand, stdlib-bot)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 -   iraandrushko
