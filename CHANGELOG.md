@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-09-07)
+## 0.3.0 (2026-01-30)
 
 <section class="features">
 
@@ -51,7 +51,7 @@ This release closes the following issue:
 -   [`b039368`](https://github.com/stdlib-js/stdlib/commit/b039368dc397596a89242970f520ecc06259c3cd) - **bench:** add missing eps dependency so C benchmarks compile _(by Philipp Burckhardt)_
 -   [`74596d4`](https://github.com/stdlib-js/stdlib/commit/74596d4df6801d9176bd5027eb237497e9b078c0) - **fix:** remove unused `eps` dependency from Frechet distribution manifests _(by Philipp Burckhardt)_
 -   [`c79716f`](https://github.com/stdlib-js/stdlib/commit/c79716fbdd4f07fcf070e3000255717201d2b571) - **chore:** clean-up _(by Athan Reines)_
--   [`843d1d0`](https://github.com/stdlib-js/stdlib/commit/843d1d0685fa8c550bb9c209c8bd87ca0f7ddb2c) - **feat:** add C implementation for `stats/base/dists/frechet/logpdf` [(#5249)](https://github.com/stdlib-js/stdlib/pull/5249) _(by iraandrushko, Philipp Burckhardt)_
+-   [`843d1d0`](https://github.com/stdlib-js/stdlib/commit/843d1d0685fa8c550bb9c209c8bd87ca0f7ddb2c) - **feat:** add C implementation for `stats/base/dists/frechet/logpdf` [(#5249)](https://github.com/stdlib-js/stdlib/pull/5249) _(by Iryna Andrushko, Philipp Burckhardt)_
 -   [`fa15161`](https://github.com/stdlib-js/stdlib/commit/fa15161761664bbdd2123292d3f1d7cf2d0f0a6d) - **bench:** refactor random number generation in `stats/base/dists/frechet` [(#4922)](https://github.com/stdlib-js/stdlib/pull/4922) _(by Karan Anand, stdlib-bot)_
 
 </details>
@@ -67,9 +67,9 @@ This release closes the following issue:
 A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Iryna Andrushko
 -   Karan Anand
 -   Philipp Burckhardt
--   iraandrushko
 
 </section>
 
